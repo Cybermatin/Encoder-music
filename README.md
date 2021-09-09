@@ -1,6 +1,6 @@
 # Encoder-music
 Hide information behind music
-# Previw
+# Preview
 ╔══[Coded by : C Security,[Encoder music]]
 
     ║
