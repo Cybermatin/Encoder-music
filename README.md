@@ -15,3 +15,6 @@ Hide information behind music
 
 ::::Image::::
 # Install
+```bash
+git clone https://github.com/Cybermatin/Encoder-music
+cd Encoder-music
