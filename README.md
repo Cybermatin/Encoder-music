@@ -7,7 +7,7 @@ Hide information behind music
     ╠═Author of tools : MatiN
     ╠═Team name : dark_shell
     ║
-    ╠═(~BAYE~)
+    ╠═(~BYE~)
 
 ::::ENTER YOUR DATA::::
 
