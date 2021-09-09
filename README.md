@@ -18,3 +18,4 @@ Hide information behind music
 ```bash
 git clone https://github.com/Cybermatin/Encoder-music
 cd Encoder-music
+pip install eyed3 
