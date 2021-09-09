@@ -19,3 +19,5 @@ Hide information behind music
 git clone https://github.com/Cybermatin/Encoder-music
 cd Encoder-music
 pip install eyed3 
+pip install stepic
+python3
