@@ -15,7 +15,7 @@ Hide information behind music
 
 ::::Image::::
 # Description
-Your music file format must be mp3. and your image format must be png.
+Your music file format must be mp3 and your image format must be png
 # Install
 ```bash
 git clone https://github.com/Cybermatin/Encoder-music
