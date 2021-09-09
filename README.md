@@ -14,6 +14,8 @@ Hide information behind music
 ::::Audio::::
 
 ::::Image::::
+# Description
+Your music file format must be mp3. and your image format must be png.
 # Install
 ```bash
 git clone https://github.com/Cybermatin/Encoder-music
@@ -21,5 +23,4 @@ cd Encoder-music
 pip install eyed3 
 pip install stepic
 python3 Encoder-music.py
-# Description
-Your music file format must be mp3. and your image format must be png.
+```
