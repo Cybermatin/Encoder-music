@@ -21,3 +21,5 @@ cd Encoder-music
 pip install eyed3 
 pip install stepic
 python3 Encoder-music.py
+# Description
+Your music file format must be mp3. and your image format must be png.
