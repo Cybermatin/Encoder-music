@@ -1,4 +1,4 @@
-#Matin-Cyber
+#cyber-matin
 
 from eyed3 import load
 from stepic import encode
@@ -10,7 +10,7 @@ import time
 time.sleep(1)
 print(colorama.Fore.RED+"""
 
-████╗      ████╗    ██████╗     ████╗   ██╗
+                     ████╗      ████╗    ██████╗     ████╗   ██╗
                        █████   █████╔╝      ██╔═╝     ██╔██╗  ██║
                        ██╔╝█████╝ ██║       ██║       ██║ ██╗ ██║
                        ██║  ███╝  ██║       ██║       ██║  ██╗██║
