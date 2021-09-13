@@ -5,7 +5,18 @@ from stepic import encode
 from PIL import Image
 from colorama import Fore,init
 import colorama
+import time
 
+time.sleep(1)
+print(colorama.Fore.RED+"""
+
+████╗      ████╗    ██████╗     ████╗   ██╗
+                       █████   █████╔╝      ██╔═╝     ██╔██╗  ██║
+                       ██╔╝█████╝ ██║       ██║       ██║ ██╗ ██║
+                       ██║  ███╝  ██║       ██║       ██║  ██╗██║
+                       ██║   █╝   ██║  ██╗  ██║  ██╗  ██║   ████║
+                       ╚═╝        ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═══
+""")
 
 colorama.init() ## initialize the colorama
 
